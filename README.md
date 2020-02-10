@@ -13,23 +13,28 @@ git clone https://github.com/chen115y/DataScienceTraining.git
 ## [Python and Jupyter Notebook - Quick Review](./Python_Introduction/)
 * [Python Basics](./Python_Introduction/Python_Basics.ipynb)
 * [Jupyter Notebook - Quick Start](./Python_Introduction/Quick_Start_Guide.ipynb)
+* [Python Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
 
 ## [Data Wrangling](./DataWrangling)
 * [Numpy](./DataWrangling/Numpy.ipynb)
 * [Pandas](./DataWrangling/Pandas.ipynb)
 * [Exercise](./DataWrangling/Exercise.ipynb)
+* [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
 
 ## [Data Visualization](./Visualization)
 This section is still in progress
 
 * [Matplotlib](./Visualization/Matplotlib.ipynb)
 * [Seaborn](./Visualization/Seaborn.ipynb)
+* [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Visualization)
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
 This section is still in progress
+* [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/MachineLearning)
 
 ## [Deep Learning](./DeepLearning)
 This section is still in progress
+* [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/DeepLearning)
 
 ## Recommended Reading Books:
 * [Python Crash Course](https://nostarch.com/pythoncrashcourse2e), Eric Matthes, No Starch Press, Inc., 2016.
