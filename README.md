@@ -8,6 +8,8 @@ To get all the contents of this repo, you can clone this repo to your local mach
 git clone https://github.com/chen115y/DataScienceTraining.git
 ```
 
+For git download and installation, please refer to its [official webiste](https://git-scm.com/downloads).
+
 ## [Data Science Introduction - Slides Deck](./Data_Science_Introduction.pdf)
 
 ## [Python and Jupyter Notebook - Quick Review](./Python_Introduction/)
@@ -19,6 +21,7 @@ git clone https://github.com/chen115y/DataScienceTraining.git
 * [Numpy](./DataWrangling/Numpy.ipynb)
 * [Pandas](./DataWrangling/Pandas.ipynb)
 * [Exercise](./DataWrangling/Exercise.ipynb)
+* [PySpark](./DataWrangling/PySpark.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
 
 ## [Data Visualization](./Visualization)
