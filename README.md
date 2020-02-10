@@ -32,7 +32,7 @@ This section is still in progress
 This section is still in progress
 
 ## Recommended Reading Books:
-* [Python Crash Course](./Python_Introduction/PythonCrashCourse.pdf), Eric Matthes, No Starch Press, Inc., 2016.
+* [Python Crash Course](https://nostarch.com/pythoncrashcourse2e), Eric Matthes, No Starch Press, Inc., 2016.
 * [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/), Andreas Muller and Sarah Guido, O’Reilly, 2016
 * [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), Jake VanderPlas, O’Reilly, 2017
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/), Andrew Ng, deeplearning.ai 2018.
