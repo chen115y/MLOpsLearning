@@ -1,7 +1,7 @@
 # Data Science Training
-This repository provides some basic training materials for anyone who are learning data science and machine learning. 
+This repository provides some basic training materials for anyone who are willing to learn data science and machine learning. 
 
-Please note, the training materials in this repo is to provide necessary contents for people to get familar to data science basic work. It is not comprehensive user manual or guidance.
+Please note: the training materials in this repo are to provide necessary contents for people to get familar to data science basic work. It is not comprehensive user manual or guidance.
 
 To get all the contents of this repo, you can clone this repo to your local machine by using Git as:
 ```shell
