@@ -10,6 +10,12 @@ git clone https://github.com/chen115y/DataScienceTraining.git
 
 For git download and installation, please refer to its [official webiste](https://git-scm.com/downloads).
 
+## Recommended Data Science Dev Environment Setup & Tools:
+* Data Science Dev Environment Setup [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
+* [Google Colaboratory (colab)](https://colab.research.google.com/notebooks/intro.ipynb) (if you don't want to setup a Data Science Environment locally)
+* IDEs – [Jupyter Notebook and/or Jupyter Lab](https://jupyter.org/), [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
+* Python Libraries included in [Anaconda 2019.10](https://www.anaconda.com/distribution/)
+
 ## [Data Science Introduction - Slides Deck](./Data_Science_Introduction.pdf)
 
 ## [Python and Jupyter Notebook - Quick Review](./Python_Introduction/)
@@ -49,9 +55,3 @@ This section is still in progress
 ## Related Free on-line Resources:
 * Python Data Science Handbook [website](https://jakevdp.github.io/PythonDataScienceHandbook/) and [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
 * Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow [1st Edition](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) and [Github](https://github.com/ageron/handson-ml2)
-
-## Recommended Data Science Dev Environment Setup & Tools:
-* Data Science Dev Environment Setup [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
-* [Google Colaboratory (colab)](https://colab.research.google.com/notebooks/intro.ipynb) (if you don't want to setup a Data Science Environment locally)
-* IDEs – [Jupyter Notebook and/or Jupyter Lab](https://jupyter.org/), [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
-* Python Libraries included in [Anaconda 2019.10](https://www.anaconda.com/distribution/)
