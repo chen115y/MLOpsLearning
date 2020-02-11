@@ -43,6 +43,7 @@ This section is still in progress
 
 ## [Deep Learning](./DeepLearning)
 This section is still in progress
+* [Backpropagation Calculus - Youtube](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/DeepLearning)
 
 ## Recommended Reading Books:
@@ -51,7 +52,10 @@ This section is still in progress
 * [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), Jake VanderPlas, O’Reilly, 2017
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/), Andrew Ng, deeplearning.ai 2018.
 * [Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Aurelien Geron, O’Reilly, 2019
+* [A Beginner's Guide to the Mathematics of Neural Networks](./DeepLearning/Math.pdf), A.C.C. Coolen, Department of Mathematics, King's College London.
+* [Mathematics for Machine Learning](./DeepLearning/Math.pdf), [GitHub](https://mml-book.github.io/), Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, Cambridge University Press, 2020.
 
 ## Related Free on-line Resources:
 * Python Data Science Handbook [website](https://jakevdp.github.io/PythonDataScienceHandbook/) and [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
 * Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow [1st Edition](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) and [Github](https://github.com/ageron/handson-ml2)
+* [An Introduction to Math Behind Neural Network](https://hackernoon.com/a-6ur13zzx)
