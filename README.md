@@ -52,5 +52,6 @@ This section is still in progress
 
 ## Recommended Data Science Dev Environment Setup & Tools:
 * Data Science Dev Environment Setup [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
+* [Google Colaboratory (colab)](https://colab.research.google.com/notebooks/intro.ipynb) (if you don't want to setup a Data Science Environment locally)
 * IDEs – [Jupyter Notebook and/or Jupyter Lab](https://jupyter.org/), [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
 * Python Libraries included in [Anaconda 2019.10](https://www.anaconda.com/distribution/)
