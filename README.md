@@ -31,19 +31,28 @@ For git download and installation, please refer to its [official webiste](https:
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
 
 ## [Data Visualization](./Visualization)
-This section is still in progress
-
 * [Matplotlib](./Visualization/Matplotlib.ipynb)
 * [Seaborn](./Visualization/Seaborn.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Visualization)
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
-This section is still in progress
+* [End-to-End Machine Learning Project](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
+* [Classification](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
+* [Regression](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
+* [Decision Tree](https://github.com/ageron/handson-ml2/blob/master/06_decision_trees.ipynb)
+* [Ensemble Learning](https://github.com/ageron/handson-ml2/blob/master/07_ensemble_learning_and_random_forests.ipynb)
+* [Unsupervised Learning](https://github.com/ageron/handson-ml2/blob/master/09_unsupervised_learning.ipynb)
+* [Dimensioinality Reduction](https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/MachineLearning)
 
 ## [Deep Learning](./DeepLearning)
-This section is still in progress
+* [Neural Nets](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb)
 * [Backpropagation Calculus - Youtube](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+* [Traing Deep Neural Network](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)
+* [Convolutional Neural Network (CNN)](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb)
+* [Recurrent Neural Network (RNN)](https://github.com/ageron/handson-ml2/blob/master/15_processing_sequences_using_rnns_and_cnns.ipynb)
+* [Autoencoder and Generative Adversarial Network (GAN)](https://github.com/ageron/handson-ml2/blob/master/17_autoencoders_and_gans.ipynb)
+* [Reinforcement Learning](https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/DeepLearning)
 
 ## Recommended Reading Books:
