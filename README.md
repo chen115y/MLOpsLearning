@@ -47,8 +47,8 @@ For git download and installation, please refer to its [official webiste](https:
 
 ## [Deep Learning](./DeepLearning)
 * [Neural Nets](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb)
-* [Backpropagation Calculus - Youtube](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Gradient Descent - Youtube](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+* [Backpropagation Calculus - Youtube](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Activation Functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
 * [Traing Deep Neural Network](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)
 * [Convolutional Neural Network (CNN)](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb)
