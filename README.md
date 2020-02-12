@@ -49,6 +49,7 @@ For git download and installation, please refer to its [official webiste](https:
 * [Neural Nets](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb)
 * [Backpropagation Calculus - Youtube](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Gradient Descent - Youtube](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+* [Activation Functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
 * [Traing Deep Neural Network](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)
 * [Convolutional Neural Network (CNN)](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb)
 * [Recurrent Neural Network (RNN)](https://github.com/ageron/handson-ml2/blob/master/15_processing_sequences_using_rnns_and_cnns.ipynb)
@@ -70,3 +71,4 @@ For git download and installation, please refer to its [official webiste](https:
 * Python Data Science Handbook [website](https://jakevdp.github.io/PythonDataScienceHandbook/) and [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
 * Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow [1st Edition](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) and [Github](https://github.com/ageron/handson-ml2)
 * [An Introduction to Math Behind Neural Network](https://hackernoon.com/a-6ur13zzx)
+* [Machine Learning & Deep Learning Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
