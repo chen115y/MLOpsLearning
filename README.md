@@ -72,3 +72,5 @@ For git download and installation, please refer to its [official webiste](https:
 * Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow [1st Edition](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) and [Github](https://github.com/ageron/handson-ml2)
 * [An Introduction to Math Behind Neural Network](https://hackernoon.com/a-6ur13zzx)
 * [Machine Learning & Deep Learning Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+* [Spark Data Processing Course](https://github.com/luisbelloch/data_processing_course)
+* [Cornell University CS4780/CS5780 Course: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)
