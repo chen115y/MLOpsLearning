@@ -36,7 +36,7 @@ For git download and installation, please refer to its [official webiste](https:
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Visualization)
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
-* [End-to-End Machine Learning Project](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
+* [End-to-End Machine Learning Project](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb) [Extra Reading - MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 * [Classification](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
 * [Regression](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
 * [Decision Tree](https://github.com/ageron/handson-ml2/blob/master/06_decision_trees.ipynb)
