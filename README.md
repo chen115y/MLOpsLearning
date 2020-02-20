@@ -8,7 +8,7 @@ To get all the contents of this repo, you can clone this repo to your local mach
 git clone https://github.com/chen115y/DataScienceTraining.git
 ```
 
-For git download and installation, please refer to its [official webiste](https://git-scm.com/downloads).
+For git download and installation, please refer to its [official webiste](https://git-scm.com/downloads). For learning how to use git and GitHub, please refer to this [simple introduction](./Python_Introduction/git_github.pdf).
 
 ## Recommended Data Science Dev Environment Setup & Tools:
 * Data Science Dev Environment Setup [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
@@ -74,3 +74,4 @@ For git download and installation, please refer to its [official webiste](https:
 * [Machine Learning & Deep Learning Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 * [Spark Data Processing Course](https://github.com/luisbelloch/data_processing_course)
 * [Cornell University CS4780/CS5780 Course: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)
+* [Applied Machine Learning Course at BYU - GitHub](https://github.com/tfolkman/byu_econ_applied_machine_learning/tree/master/lectures)
