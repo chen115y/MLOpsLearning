@@ -35,8 +35,12 @@ For git download and installation, please refer to its [official webiste](https:
 * [Seaborn](./Visualization/Seaborn.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Visualization)
 
+## [Data Science Life Cycle](./DSLC)
+* [End-to-End Machine Learning Project](./DSLC/02_end_to_end_machine_learning_project.ipynb)
+* [Data Science Life Cycle - Principles, Standards and Best Practices](./DSLC/DSLC_stardards_best_practices.ipynb)
+* [A Jupyter Notebook Template for Data Science Project](./DSLC/template.ipynb)
+
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
-* [End-to-End Machine Learning Project](./ConventionalMachineLearning/02_end_to_end_machine_learning_project.ipynb) 
 * [Classification](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
 * [Regression](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
 * [Decision Tree](https://github.com/ageron/handson-ml2/blob/master/06_decision_trees.ipynb)
