@@ -41,6 +41,7 @@ For git download and installation, please refer to its [official webiste](https:
 * [A Jupyter Notebook Template for Data Science Project](./DSLC/template.ipynb)
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
+* [Categories of Machine Learning Algorithms](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY/t/categories-of-algorithms-non-exhaustive)
 * [Classification](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
 * [Regression](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
 * [Decision Tree](https://github.com/ageron/handson-ml2/blob/master/06_decision_trees.ipynb)
@@ -80,3 +81,4 @@ For git download and installation, please refer to its [official webiste](https:
 * [Spark Data Processing Course](https://github.com/luisbelloch/data_processing_course)
 * [Cornell University CS4780/CS5780 Course: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)
 * [Applied Machine Learning Course at BYU - GitHub](https://github.com/tfolkman/byu_econ_applied_machine_learning/tree/master/lectures)
+* [Microsoft Machine Learning Algorithms available on SQL Server Analysis Services (SSAS)](https://chen115yaohua.blogspot.com/2012/08/microsoft-sql-server-analysis-services.html)
