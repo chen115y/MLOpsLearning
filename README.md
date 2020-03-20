@@ -42,6 +42,7 @@ For git download and installation, please refer to its [official webiste](https:
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
 * [Categories of Machine Learning Algorithms](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY/t/categories-of-algorithms-non-exhaustive)
+* [Association Rules](./ConventionalMachineLearning/sampleassociation.ipynb)
 * [Classification](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
 * [Regression](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
 * [Decision Tree](https://github.com/ageron/handson-ml2/blob/master/06_decision_trees.ipynb)
