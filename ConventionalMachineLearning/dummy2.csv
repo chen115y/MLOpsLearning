@@ -1,8 +1,40 @@
-﻿hcs,51-100 General Laborer/Production,51-140 Assembler - Light,19-140 Field Technician,51-120 Warehouse Worker
-1,1,1,0,1
-2,0,0,1,1
-3,1,1,0,0
-4,1,1,0,0
-5,1,1,0,1
-6,1,1,0,0
-7,1,0,1,0
+﻿job1,job2
+15-230 PC Technician,47-120 Electrician
+15-230 PC Technician,19-140 Field Technician
+18-300 Maintenance Tech/Mechanic,51-100 General Laborer/Production
+18-560 Electronics Technician,51-140 Assembler - Light
+18-560 Electronics Technician,51-210 Forklift/Heavy Machine Operator
+19-140 Field Technician,47-120 Electrician
+19-140 Field Technician,51-210 Forklift/Heavy Machine Operator
+47-120 Electrician,19-140 Field Technician
+47-150 Drywall Finisher/Carpenter,51-100 General Laborer/Production
+47-150 Drywall Finisher/Carpenter,51-200 Machine Operator
+47-150 Drywall Finisher/Carpenter,51-130 Material Handler/Packer
+51-100 General Laborer/Production,51-200 Machine Operator
+51-100 General Laborer/Production,51-130 Material Handler/Packer
+51-100 General Laborer/Production,51-300 Machinist
+51-100 General Laborer/Production,51-240 QA Technician/Inspector
+51-100 General Laborer/Production,51-120 Warehouse Worker
+51-100 General Laborer/Production,51-250 Shipping/Receiving Clerk
+51-100 General Laborer/Production,51-140 Assembler - Light
+51-120 Warehouse Worker,51-130 Material Handler/Packer
+51-120 Warehouse Worker,51-100 General Laborer/Production
+51-120 Warehouse Worker,51-140 Assembler - Light
+51-120 Warehouse Worker,51-340 Painter-Industrial
+51-130 Material Handler/Packer,19-140 Field Technician
+51-130 Material Handler/Packer,51-210 Forklift/Heavy Machine Operator
+51-130 Material Handler/Packer,51-120 Warehouse Worker
+51-140 Assembler - Light,51-210 Forklift/Heavy Machine Operator
+51-140 Assembler - Light,51-100 General Laborer/Production
+51-140 Assembler - Light,51-130 Material Handler/Packer
+51-140 Assembler - Light,18-300 Maintenance Tech/Mechanic
+51-140 Assembler - Light,51-120 Warehouse Worker
+51-140 Assembler - Light,51-340 Painter-Industrial
+51-200 Machine Operator,51-100 General Laborer/Production
+51-200 Machine Operator,51-130 Material Handler/Packer
+51-220 Janitor,51-130 Material Handler/Packer
+51-220 Janitor,51-120 Warehouse Worker
+51-250 Shipping/Receiving Clerk,51-130 Material Handler/Packer
+51-300 Machinist,51-240 QA Technician/Inspector
+51-300 Machinist,51-120 Warehouse Worker
+51-300 Machinist,51-100 General Laborer/Production
