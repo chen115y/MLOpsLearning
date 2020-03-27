@@ -83,3 +83,4 @@ For git download and installation, please refer to its [official webiste](https:
 * [Cornell University CS4780/CS5780 Course: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)
 * [Applied Machine Learning Course at BYU - GitHub](https://github.com/tfolkman/byu_econ_applied_machine_learning/tree/master/lectures)
 * [Microsoft Machine Learning Algorithms available on SQL Server Analysis Services (SSAS)](https://chen115yaohua.blogspot.com/2012/08/microsoft-sql-server-analysis-services.html)
+* ["Fake" Data Scientists](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
