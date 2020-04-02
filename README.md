@@ -8,7 +8,7 @@ To get all the contents of this repo, you can clone this repo to your local mach
 git clone https://github.com/chen115y/DataScienceTraining.git
 ```
 
-For git download and installation, please refer to its [official webiste](https://git-scm.com/downloads). For learning how to use git and GitHub, please refer to this [simple introduction](./Python_Introduction/git_github.pdf).
+For git download and installation, please refer to its [official website](https://git-scm.com/downloads). For learning how to use git and GitHub, please refer to this [simple introduction](./Python_Introduction/git_github.pdf).
 
 ## Recommended Data Science Dev Environment Setup & Tools:
 * Data Science Dev Environment Setup [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
@@ -39,6 +39,7 @@ For git download and installation, please refer to its [official webiste](https:
 * [End-to-End Machine Learning Project](./DSLC/02_end_to_end_machine_learning_project.ipynb)
 * [Data Science Life Cycle - Principles, Standards and Best Practices](./DSLC/dslc_stardards_best_practices.ipynb)
 * [A Jupyter Notebook Template for Data Science Project](./DSLC/template.ipynb)
+* [Google AutoML and Auto-Keras: Getting Started Guide](https://www.pyimagesearch.com/2019/01/07/auto-keras-and-automl-a-getting-started-guide/)
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
 * [Categories of Machine Learning Algorithms](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY/t/categories-of-algorithms-non-exhaustive)
