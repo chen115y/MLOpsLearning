@@ -16,9 +16,11 @@ For git download and installation, please refer to its [official website](https:
 * IDEs – [Jupyter Notebook and/or Jupyter Lab](https://jupyter.org/), [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
 * Python Libraries included in [Anaconda 2019.10](https://www.anaconda.com/distribution/)
 
-## [Data Science Introduction - Slides Deck](./Data_Science_Introduction.pdf)
-
-## [Python and Jupyter Notebook - Quick Review](./Python_Introduction/)
+## Data Science Basics
+* [Data Science Introduction - Slides Deck](./Data_Science_Introduction.pdf)
+* [SQL Foundation](https://www.udemy.com/course/sql-essentials-for-beginners/)
+* [Hypothesis Tests](https://www.datasciencecentral.com/profiles/blogs/hypothesis-tests-in-one-picture)
+* [Math Cheat Sheets for Data Science](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Math)
 * [Python Basics](./Python_Introduction/Python_Basics.ipynb)
 * [Jupyter Notebook - Quick Start](./Python_Introduction/Quick_Start_Guide.ipynb)
 * [Python Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
