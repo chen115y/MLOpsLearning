@@ -40,6 +40,7 @@ For git download and installation, please refer to its [official website](https:
 * [Data Science Life Cycle - Principles, Standards and Best Practices](./DSLC/dslc_stardards_best_practices.ipynb)
 * [A Jupyter Notebook Template for Data Science Project](./DSLC/template.ipynb)
 * [AutoML and Auto-Keras: Getting Started Guide](./DSLC/auto-keras.ipynb)
+* [Extra Reading - Machine Learning Ops](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
 * [Categories of Machine Learning Algorithms](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY/t/categories-of-algorithms-non-exhaustive)
@@ -51,7 +52,6 @@ For git download and installation, please refer to its [official website](https:
 * [Unsupervised Learning](https://github.com/ageron/handson-ml2/blob/master/09_unsupervised_learning.ipynb)
 * [Dimensioinality Reduction](https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/MachineLearning)
-* [Extra Reading - Machine Learning Ops](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
 ## [Deep Learning](./DeepLearning)
 * [Neural Nets](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb)
