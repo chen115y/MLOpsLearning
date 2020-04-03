@@ -39,7 +39,7 @@ For git download and installation, please refer to its [official website](https:
 * [End-to-End Machine Learning Project](./DSLC/02_end_to_end_machine_learning_project.ipynb)
 * [Data Science Life Cycle - Principles, Standards and Best Practices](./DSLC/dslc_stardards_best_practices.ipynb)
 * [A Jupyter Notebook Template for Data Science Project](./DSLC/template.ipynb)
-* [Google AutoML and Auto-Keras: Getting Started Guide](https://www.pyimagesearch.com/2019/01/07/auto-keras-and-automl-a-getting-started-guide/)
+* [AutoML and Auto-Keras: Getting Started Guide](./DSLC/auto-keras.ipynb)
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
 * [Categories of Machine Learning Algorithms](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY/t/categories-of-algorithms-non-exhaustive)
@@ -85,3 +85,4 @@ For git download and installation, please refer to its [official website](https:
 * [Applied Machine Learning Course at BYU - GitHub](https://github.com/tfolkman/byu_econ_applied_machine_learning/tree/master/lectures)
 * [Microsoft Machine Learning Algorithms available on SQL Server Analysis Services (SSAS)](https://chen115yaohua.blogspot.com/2012/08/microsoft-sql-server-analysis-services.html)
 * ["Fake" Data Scientists](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
+* [You can master Computer Vision, Deep Learning, and OpenCV - Adrian Rosebrock, PhD](https://www.pyimagesearch.com/)
