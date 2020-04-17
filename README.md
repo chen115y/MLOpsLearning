@@ -63,6 +63,7 @@ For git download and installation, please refer to its [official website](https:
 * [Traing Deep Neural Network](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)
 * [Convolutional Neural Network (CNN)](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb)
 * [Recurrent Neural Network (RNN)](https://github.com/ageron/handson-ml2/blob/master/15_processing_sequences_using_rnns_and_cnns.ipynb)
+* [Natural Language Processing with RNNs and Attention](https://github.com/ageron/handson-ml2/blob/master/16_nlp_with_rnns_and_attention.ipynb)
 * [Autoencoder and Generative Adversarial Network (GAN)](https://github.com/ageron/handson-ml2/blob/master/17_autoencoders_and_gans.ipynb)
 * [Reinforcement Learning](https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/DeepLearning)
