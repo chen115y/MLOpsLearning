@@ -19,11 +19,14 @@ For git download and installation, please refer to its [official website](https:
 ## Data Science Basics
 * [Data Science Introduction - Slides Deck](./Data_Science_Introduction.pdf)
 * [SQL Foundation](https://www.udemy.com/course/sql-essentials-for-beginners/)
-* [Hypothesis Tests](https://www.datasciencecentral.com/profiles/blogs/hypothesis-tests-in-one-picture)
-* [Math Cheat Sheets for Data Science](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Math)
-* [Python Basics](./Python_Introduction/Python_Basics.ipynb)
-* [Jupyter Notebook - Quick Start](./Python_Introduction/Quick_Start_Guide.ipynb)
-* [Python Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
+* Math Basics
+    * [Hypothesis Tests](https://www.datasciencecentral.com/profiles/blogs/hypothesis-tests-in-one-picture)
+    * [Think Stats: Probability and Statistics for Programmers](./Python_Introduction/thinkstats.pdf)
+    * [Math Cheat Sheets for Data Science](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Math)
+* Python Basics
+    * [Python Introduction](./Python_Introduction/Python_Basics.ipynb)
+    * [Jupyter Notebook - Quick Start](./Python_Introduction/Quick_Start_Guide.ipynb)
+    * [Python Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
 
 ## [Data Wrangling](./DataWrangling)
 * [Numpy](./DataWrangling/Numpy.ipynb)
