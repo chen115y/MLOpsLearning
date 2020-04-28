@@ -11,7 +11,7 @@ git clone https://github.com/chen115y/DataScienceTraining.git
 For git download and installation, please refer to its [official website](https://git-scm.com/downloads). For learning how to use git and GitHub, please refer to this [simple introduction](./Python_Introduction/git_github.pdf).
 
 ## Recommended Data Science Dev Environment Setup & Tools:
-* Data Science Dev Environment Setup [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
+* Data Science Dev Environment Setup on Windows and Linux Ubuntu [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
 * [Google Colaboratory (colab)](https://colab.research.google.com/notebooks/intro.ipynb) (if you don't want to setup a Data Science Environment locally)
 * IDEs – [Jupyter Notebook and/or Jupyter Lab](https://jupyter.org/), [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
 * Python Libraries included in [Anaconda 2019.10](https://www.anaconda.com/distribution/)
