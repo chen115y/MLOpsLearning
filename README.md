@@ -13,8 +13,8 @@ For git download and installation, please refer to its [official website](https:
 ## Recommended Data Science Dev Environment Setup & Tools:
 * Data Science Dev Environment Setup on Windows and Linux Ubuntu [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
 * [Google Colaboratory (colab)](https://colab.research.google.com/notebooks/intro.ipynb) (if you don't want to setup a Data Science Environment locally)
-* IDEs – [Jupyter Notebook and/or Jupyter Lab](https://jupyter.org/), [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
-* Python Libraries included in [Anaconda 2019.10](https://www.anaconda.com/distribution/)
+* IDEs – [Pycharm](https://www.jetbrains.com/pycharm/), [Jupyter Notebook and/or Jupyter Lab](https://jupyter.org/), [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
+* Python Libraries included in [Anaconda](https://www.anaconda.com/distribution/)
 
 ## Data Science Basics
 * [Data Science Introduction - Slides Deck](./Data_Science_Introduction.pdf)
