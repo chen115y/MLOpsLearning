@@ -60,8 +60,6 @@ For git download and installation, please refer to its [official website](https:
 
 ## [Deep Learning](./DeepLearning)
 * [Neural Nets](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb)
-* [Gradient Descent - Youtube](https://www.youtube.com/watch?v=IHZwWFHWa-w)
-* [Backpropagation Calculus - Youtube](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Activation Functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
 * [Traing Deep Neural Network](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)
 * [Convolutional Neural Network (CNN)](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb)
@@ -79,6 +77,11 @@ For git download and installation, please refer to its [official website](https:
 * [Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Aurelien Geron, O’Reilly, 2019
 * [A Beginner's Guide to the Mathematics of Neural Networks](./DeepLearning/Math.pdf), A.C.C. Coolen, Department of Mathematics, King's College London.
 * [Mathematics for Machine Learning](./DeepLearning/Math.pdf), [GitHub](https://mml-book.github.io/), Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, Cambridge University Press, 2020.
+
+## Recommended Youtube Videos:
+* [Tensorflow - ML Zero to Hero](https://www.youtube.com/watch?v=KNAWp2S3w94&list=RDCMUC0rqucBdTuFTjJiefW5t-IQ&start_radio=1&t=5) 25 Youtube videos.
+* [Gradient Descent - Youtube](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+* [Backpropagation Calculus - Youtube](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
 ## Related Free on-line Resources:
 * [Google Python Class](https://developers.google.com/edu/python), [Online Python Tutorials](https://pythonspot.com/), [Interactive Python Class](https://cscircles.cemc.uwaterloo.ca/) and [Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
