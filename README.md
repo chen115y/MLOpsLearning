@@ -17,7 +17,7 @@ For git download and installation, please refer to its [official website](https:
 * Python Libraries included in [Anaconda](https://www.anaconda.com/distribution/)
 
 ## Data Science Basics
-* [Data Science Introduction - Slides Deck](./Data_Science_Introduction.pdf)
+* [Data Science Introduction - Slides Deck](./Data-Science-Life-Cycle.pdf)
 * [SQL Foundation](https://www.udemy.com/course/sql-essentials-for-beginners/)
 * Math Basics
     * [Hypothesis Tests](https://www.datasciencecentral.com/profiles/blogs/hypothesis-tests-in-one-picture)
