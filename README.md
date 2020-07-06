@@ -65,6 +65,8 @@ For git download and installation, please refer to its [official website](https:
 * [Convolutional Neural Network (CNN)](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb)
 * [Recurrent Neural Network (RNN)](https://github.com/ageron/handson-ml2/blob/master/15_processing_sequences_using_rnns_and_cnns.ipynb)
 * [Natural Language Processing with RNNs and Attention](https://github.com/ageron/handson-ml2/blob/master/16_nlp_with_rnns_and_attention.ipynb)
+* [Transformer Neural Networks - EXPLAINED! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps)
+* [LSTM is dead. Long Live Transformers!](https://www.youtube.com/watch?v=S27pHKBEp30)
 * [Autoencoder and Generative Adversarial Network (GAN)](https://github.com/ageron/handson-ml2/blob/master/17_autoencoders_and_gans.ipynb)
 * [Reinforcement Learning](https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/DeepLearning)
