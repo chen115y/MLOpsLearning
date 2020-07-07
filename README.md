@@ -71,20 +71,13 @@ For git download and installation, please refer to its [official website](https:
 ## [Natural Language Processing (NLP)](./NLP)
 * [Advanced NLP with SpaCy](https://course.spacy.io/en/)
 * [Natural Language Processing with RNNs and Attention](https://github.com/ageron/handson-ml2/blob/master/16_nlp_with_rnns_and_attention.ipynb)
-* [Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition](https://www.youtube.com/watch?v=LHXXI4-IEns)
-* [Illustrated Guide to LSTM's and GRU's: A step by step explanation](https://www.youtube.com/watch?v=8HyCNIVRbSU)
 * [Transformer Introduction](./NLP/transformers.ipynb)
 * [Transformer model for language understanding](./NLP/transformer.ipynb)
 * [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)
 * [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
-* [Transformer Neural Networks - EXPLAINED! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps)
-* [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
-* [LSTM is dead. Long Live Transformers!](https://www.youtube.com/watch?v=S27pHKBEp30)
-* [BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo)
 * [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 * [How to Build OpenAI's GPT-2: "The AI That Was Too Dangerous to Release"](https://blog.floydhub.com/gpt2/)
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](http://jalammar.github.io/illustrated-gpt2/)
-* [GPT-3: Language Models are Few-Shot Learners (Paper Explained)](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 
 ## Recommended Reading Books:
 * [Python Crash Course](https://nostarch.com/pythoncrashcourse2e), Eric Matthes, No Starch Press, Inc., 2016.
@@ -101,6 +94,13 @@ For git download and installation, please refer to its [official website](https:
 * [Deep Learning with PyTorch - Full Course](https://www.youtube.com/watch?v=GIsg-ZUy0MY) An almost 10-hour course video. 
 * [Gradient Descent - Youtube](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 * [Backpropagation Calculus - Youtube](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+* [Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition](https://www.youtube.com/watch?v=LHXXI4-IEns)
+* [Illustrated Guide to LSTM's and GRU's: A step by step explanation](https://www.youtube.com/watch?v=8HyCNIVRbSU)
+* [Transformer Neural Networks - EXPLAINED! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps)
+* [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
+* [LSTM is dead. Long Live Transformers!](https://www.youtube.com/watch?v=S27pHKBEp30)
+* [BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo)
+* [GPT-3: Language Models are Few-Shot Learners (Paper Explained)](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 
 ## Related Free on-line Resources:
 * [Google Python Class](https://developers.google.com/edu/python), [Online Python Tutorials](https://pythonspot.com/), [Interactive Python Class](https://cscircles.cemc.uwaterloo.ca/) and [Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
