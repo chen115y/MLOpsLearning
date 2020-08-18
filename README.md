@@ -90,6 +90,7 @@ For git download and installation, please refer to its [official website](https:
 * [Mathematics for Machine Learning](./DeepLearning/Math.pdf), [GitHub](https://mml-book.github.io/), Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, Cambridge University Press, 2020.
 
 ## Recommended Youtube Videos:
+* [Amazon Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
 * [Tensorflow - ML Zero to Hero](https://www.youtube.com/watch?v=KNAWp2S3w94&list=RDCMUC0rqucBdTuFTjJiefW5t-IQ&start_radio=1&t=5) 25 Youtube videos.
 * [Deep Learning with PyTorch - Full Course](https://www.youtube.com/watch?v=GIsg-ZUy0MY) An almost 10-hour course video. 
 * [Gradient Descent - Youtube](https://www.youtube.com/watch?v=IHZwWFHWa-w)
