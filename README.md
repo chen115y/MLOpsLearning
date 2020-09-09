@@ -86,6 +86,7 @@ For git download and installation, please refer to its [official website](https:
 * [R for Data Science](https://r4ds.had.co.nz/), Garrett Grolemund and Hadley Wickham, O’Reilly, 2017
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/), Andrew Ng, deeplearning.ai 2018.
 * [Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Aurelien Geron, O’Reilly, 2019
+* [Dive into Deep Learning - An interactive deep learning book with code, math, and discussions](https://d2l.ai/)
 * [A Beginner's Guide to the Mathematics of Neural Networks](./DeepLearning/Math.pdf), A.C.C. Coolen, Department of Mathematics, King's College London.
 * [Mathematics for Machine Learning](./DeepLearning/Math.pdf), [GitHub](https://mml-book.github.io/), Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, Cambridge University Press, 2020.
 
