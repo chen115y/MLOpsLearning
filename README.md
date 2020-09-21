@@ -45,6 +45,7 @@ For git download and installation, please refer to its [official website](https:
 * [Data Science Life Cycle - Principles, Standards and Best Practices](./DSLC/dslc_stardards_best_practices.ipynb) 
 * [A Jupyter Notebook Template for Data Science Project](./DSLC/template.ipynb)
 * [AutoML and Auto-Keras: Getting Started Guide](./DSLC/auto-keras.ipynb)
+* [Rules of Machine Learning: Best Practices for ML Engineering](./DSLC/RulesofMachineLearning.pdf)
 * [Extra Reading - Machine Learning Ops](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
 ## [Conventional Machine Learning](./ConventionalMachineLearning)
