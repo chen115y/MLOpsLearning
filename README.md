@@ -117,3 +117,4 @@ For git download and installation, please refer to its [official website](https:
 * [Microsoft Machine Learning Algorithms available on SQL Server Analysis Services (SSAS)](https://chen115yaohua.blogspot.com/2012/08/microsoft-sql-server-analysis-services.html)
 * ["Fake" Data Scientists](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
 * [You can master Computer Vision, Deep Learning, and OpenCV - Adrian Rosebrock, PhD](https://www.pyimagesearch.com/)
+* [Data Scientist Interview Questions](./DataScienceInterviewQuestions.pdf)
