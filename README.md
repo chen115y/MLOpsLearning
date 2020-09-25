@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Science Training
 This repository provides some basic training materials for anyone who are willing to learn data science and machine learning. 
 
