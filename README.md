@@ -20,8 +20,10 @@ For git download and installation, please refer to its [official website](https:
 * [Data Science Introduction - Slides Deck](./Data-Science-Life-Cycle.pdf)
 * [SQL Foundation](https://www.udemy.com/course/sql-essentials-for-beginners/)
 * Math Basics
+    * [Khan Academy - Math](https://www.khanacademy.org/math)
     * [Hypothesis Tests](https://www.datasciencecentral.com/profiles/blogs/hypothesis-tests-in-one-picture)
     * [Think Stats: Probability and Statistics for Programmers](./Python_Introduction/thinkstats.pdf)
+    * [Mathematics for Machine Learning](https://mml-book.github.io/)
     * [Math Cheat Sheets for Data Science](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Math)
 * Python Basics
     * [Python Introduction](./Python_Introduction/Python_Basics.ipynb)
