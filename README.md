@@ -111,7 +111,7 @@ For git download and installation, please refer to its [official website](https:
 * Python Data Science Handbook [website](https://jakevdp.github.io/PythonDataScienceHandbook/) and [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
 * Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow [1st Edition](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) and [Github](https://github.com/ageron/handson-ml2)
 * AWS Amazon Sagemaker Examples [Github](https://github.com/aws/amazon-sagemaker-examples)
-* Three Popular AI/ML/DS Frameworks: [Tensorflow](https://github.com/aws/amazon-sagemaker-examples), [PyTorch](https://pytorch.org/), [MXNet](https://mxnet.apache.org/)
+* Three Popular AI/ML/DS Frameworks: [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [MXNet](https://mxnet.apache.org/)
 * [An Introduction to Math Behind Neural Network](https://hackernoon.com/a-6ur13zzx)
 * [Machine Learning & Deep Learning Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 * [Spark Data Processing Course](https://github.com/luisbelloch/data_processing_course)
