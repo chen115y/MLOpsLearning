@@ -1,5 +1,5 @@
-# Data Science Training
-This repository provides some basic training materials for anyone who are willing to learn data science and machine learning. 
+# Data Science Learning
+This repository provides some basic learning & training materials for anyone who are willing to learn data science and machine learning. 
 
 Please note: the training materials in this repo are to provide necessary contents for people to get familar to data science basic work. It is not comprehensive user manual or guidance.
 
