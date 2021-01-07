@@ -83,14 +83,14 @@ For git download and installation, please refer to its [official website](https:
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](http://jalammar.github.io/illustrated-gpt2/)
 
 ## Recommended Reading Books:
-* [Python Crash Course](https://nostarch.com/pythoncrashcourse2e), Eric Matthes, No Starch Press, Inc., 2016.
-* [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/), Andreas Muller and Sarah Guido, O’Reilly, 2016
-* [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), Jake VanderPlas, O’Reilly, 2017
-* [R for Data Science](https://r4ds.had.co.nz/), Garrett Grolemund and Hadley Wickham, O’Reilly, 2017
-* [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/), Andrew Ng, deeplearning.ai 2018.
-* [Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Aurelien Geron, O’Reilly, 2019
-* [A Beginner's Guide to the Mathematics of Neural Networks](./DeepLearning/Math.pdf), A.C.C. Coolen, Department of Mathematics, King's College London.
-* [Mathematics for Machine Learning](./DeepLearning/Math.pdf), [GitHub](https://mml-book.github.io/), Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, Cambridge University Press, 2020.
+* [Python Crash Course](https://nostarch.com/pythoncrashcourse2e), Eric Matthes, No Starch Press, Inc., 2016 (recommend for beginners to understand Python)
+* [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/), Andreas Muller and Sarah Guido, O’Reilly, 2016 (recommend for beginners)
+* [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), Jake VanderPlas, O’Reilly, 2017 (recommend for beginners)
+* [R for Data Science](https://r4ds.had.co.nz/), Garrett Grolemund and Hadley Wickham, O’Reilly, 2017 (optional since Python is dominant in data science)
+* [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/), Andrew Ng, deeplearning.ai 2018 (recommend for beginners)
+* [Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Aurelien Geron, O’Reilly, 2019 (recommend for advanced learners)
+* [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438), Francois Chollet, Manning Publications Co., 2018 (recommend for beginners)
+* [Mathematics for Machine Learning](./DeepLearning/Math.pdf), [GitHub](https://mml-book.github.io/), Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, Cambridge University Press, 2020 (recommend for advanced learners)
 
 ## Recommended Youtube Videos:
 * [Amazon Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
