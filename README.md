@@ -50,7 +50,7 @@ For git download and installation, please refer to its [official website](https:
 * [Rules of Machine Learning: Best Practices for ML Engineering](./DSLC/RulesofMachineLearning.pdf)
 * [Extra Reading - Machine Learning Ops](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
-## [Conventional Machine Learning](./ConventionalMachineLearning)
+## [The Fundamentals of Machine Learning](./ConventionalMachineLearning)
 * [Categories of Machine Learning Algorithms](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY/t/categories-of-algorithms-non-exhaustive)
 * [Association Rules](./ConventionalMachineLearning/sampleassociation.ipynb)
 * [Classification](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
