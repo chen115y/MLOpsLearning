@@ -64,7 +64,7 @@ For git download and installation, please refer to its [official website](https:
 ## [Deep Learning](./DeepLearning)
 * [Neural Nets](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb)
 * [Activation Functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
-* [Traing Deep Neural Network](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)
+* [Traning Deep Neural Network](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)
 * [Convolutional Neural Network (CNN)](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb)
 * [Recurrent Neural Network (RNN)](https://github.com/ageron/handson-ml2/blob/master/15_processing_sequences_using_rnns_and_cnns.ipynb)
 * [Autoencoder and Generative Adversarial Network (GAN)](https://github.com/ageron/handson-ml2/blob/master/17_autoencoders_and_gans.ipynb)
