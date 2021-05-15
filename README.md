@@ -90,6 +90,7 @@ For git download and installation, please refer to its [official website](https:
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/), Andrew Ng, deeplearning.ai 2018 (recommend for beginners)
 * [Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Aurelien Geron, O’Reilly, 2019 (recommend for advanced learners)
 * [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438), Francois Chollet, Manning Publications Co., 2018 (recommend for beginners)
+* [Data Science on AWS](https://www.oreilly.com/library/view/data-science-on/9781492079385/), Chris Fregly & Antje Barth, O'Reilly, 2021 (recommend for AWS professionals)
 * [Mathematics for Machine Learning](./DeepLearning/mml-book.pdf), [GitHub](https://mml-book.github.io/), Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, Cambridge University Press, 2020 (recommend for all levels of learners)
 
 ## Recommended Youtube Videos:
