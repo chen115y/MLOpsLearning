@@ -1,63 +1,51 @@
-# Data Science Learning
+# Data Science and MLOps Learning
 
-This repository provides some basic learning & training materials for anyone who are willing to learn data science and machine learning.
+This repository provides some basic learning & training materials for anyone who are willing to learn data science and machine learning engineering & operations (MLOps).
 
-Please note: the training materials in this repo are to provide necessary contents for people to get familar to data science basic work. It is not comprehensive user manual or guidance.
+Please note: the training materials in this repo are to provide interesting contents for people to get familar to accompulish data science and MLOps projects. It is not comprehensive user manual or guidance.
 
 To get all the contents of this repo, you can clone this repo to your local machine by using Git as:
 
 ```shell
-git clone https://github.com/chen115y/DataScienceTraining.git
+git clone https://github.com/chen115y/MLOpsLearning.git
 ```
 
 For git download and installation, please refer to its [official website](https://git-scm.com/downloads). For learning how to use git and GitHub, please refer to this [simple introduction](./Python_Introduction/git_github.pdf).
 
-## Recommended Data Science Dev Environment Setup & Tools:
+## Recommended Local Environment Setup:
 
-* Data Science Dev Environment Setup on Windows and Linux Ubuntu [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
-* [Google Colaboratory (colab)](https://colab.research.google.com/notebooks/intro.ipynb) (if you don't want to setup a Data Science Environment locally)
+* Local Environment Setup on Windows and Linux Ubuntu [GitHub](https://github.com/chen115y/DataScience_Env_Setup)
+* [Google Colaboratory (colab)](https://colab.research.google.com/notebooks/intro.ipynb) (if you don't want to setup an environment locally)
 * IDEs – [Pycharm](https://www.jetbrains.com/pycharm/), [Jupyter Notebook and/or Jupyter Lab](https://jupyter.org/), [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
 * Python Libraries included in [Anaconda](https://www.anaconda.com/distribution/)
 
-## Data Science Basics
+## Basic Knowledge
 
-* [Data Science Introduction - Slides Deck](./Data-Science-Life-Cycle.pdf)
+### SQL Basics
+
 * [SQL Foundation](https://www.udemy.com/course/sql-essentials-for-beginners/)
-* Math Basics
+### Math Basics
   * [Khan Academy - Math](https://www.khanacademy.org/math)
   * [Hypothesis Tests](https://www.datasciencecentral.com/profiles/blogs/hypothesis-tests-in-one-picture)
   * [Think Stats: Probability and Statistics for Programmers](./Python_Introduction/thinkstats.pdf)
   * [Mathematics for Machine Learning](https://mml-book.github.io/)
   * [Math Cheat Sheets for Data Science](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Math)
-* Python Basics
+### Python Basics
   * [Python Introduction](./Python_Introduction/Python_Basics.ipynb)
   * [Jupyter Notebook - Quick Start](./Python_Introduction/Quick_Start_Guide.ipynb)
   * [Python Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
 
-## [Data Wrangling](./DataWrangling)
+### Data Science Basics
 
-* [Numpy](./DataWrangling/Numpy.ipynb)
-* [Pandas](./DataWrangling/Pandas.ipynb)
-* [Exercise](./DataWrangling/Exercise.ipynb)
-* [PySpark](./DataWrangling/PySpark.ipynb)
-* [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
-
-## [Data Visualization](./Visualization)
-
-* [Matplotlib](./Visualization/Matplotlib.ipynb)
-* [Seaborn](./Visualization/Seaborn.ipynb)
-* [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Visualization)
-
-## [Data Science Life Cycle](./DSLC)
-
+* [Data Science Life Cycle Introduction - Slides Deck](./Data-Science-Life-Cycle.pdf)
 * [End-to-End Machine Learning Project](./DSLC/02_end_to_end_machine_learning_project.ipynb)
-* [Data Science Life Cycle - Principles, Standards and Best Practices](./DSLC/dslc_stardards_best_practices.ipynb)
+* [Data Science and MLOps Life Cycle - Principles, Standards and Best Practices](./DSLC/dslc_stardards_best_practices.ipynb)
 * [A Jupyter Notebook Template for Data Science Project](./DSLC/template.ipynb)
 * [AutoML and Auto-Keras: Getting Started Guide](./DSLC/auto-keras.ipynb)
 * [Rules of Machine Learning: Best Practices for ML Engineering](./DSLC/RulesofMachineLearning.pdf)
 * [Extra Reading - Machine Learning Ops](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
-## [The Fundamentals of Machine Learning](./ConventionalMachineLearning)
+### Machine Learning Basics
 
 * [Categories of Machine Learning Algorithms](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY/t/categories-of-algorithms-non-exhaustive)
 * [Association Rules](./ConventionalMachineLearning/sampleassociation.ipynb)
@@ -69,7 +57,7 @@ For git download and installation, please refer to its [official website](https:
 * [Dimensioinality Reduction](https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/MachineLearning)
 
-## [Deep Learning](./DeepLearning)
+### Deep Learning Basics
 
 * [Neural Nets](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb)
 * [Activation Functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
@@ -77,10 +65,9 @@ For git download and installation, please refer to its [official website](https:
 * [Convolutional Neural Network (CNN)](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb)
 * [Recurrent Neural Network (RNN)](https://github.com/ageron/handson-ml2/blob/master/15_processing_sequences_using_rnns_and_cnns.ipynb)
 * [Autoencoder and Generative Adversarial Network (GAN)](https://github.com/ageron/handson-ml2/blob/master/17_autoencoders_and_gans.ipynb)
-* [Reinforcement Learning](https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/DeepLearning)
 
-## [Natural Language Processing (NLP)](./NLP)
+### Natural Language Processing (NLP)
 
 * [Word Embedding - Word2Vec](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 * [Advanced NLP with SpaCy](https://course.spacy.io/en/)
@@ -90,8 +77,59 @@ For git download and installation, please refer to its [official website](https:
 * [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)
 * [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 * [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+* [Applying massive language models in the real world with Cohere](https://jalammar.github.io/applying-large-language-models-cohere/)
+
+### Generative AI
+
 * [How to Build OpenAI's GPT-2: "The AI That Was Too Dangerous to Release"](https://blog.floydhub.com/gpt2/)
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](http://jalammar.github.io/illustrated-gpt2/)
+* [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
+* [LMFlow - An extensible, convenient, and efficient toolbox for finetuning large machine learning models](https://github.com/OptimalScale/LMFlow)
+* [LLaMA-Adapter: Efficient Fine-tuning of LLaMA](https://github.com/zrrskywalker/llama-adapter)
+
+### Explainable AI
+
+* [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
+* [Explainable AI Cheat Sheet](https://jalammar.github.io/explainable-ai/)
+* [Unveiling the Black Box model using Explainable AI(Lime, Shap) Industry use case](https://www.analyticsvidhya.com/blog/2020/10/unveiling-the-black-box-model-using-explainable-ai-lime-shap-industry-use-case/)
+
+### Reinforcement Learning (with Human Feedbacks)
+
+* [Reinforcement Learning - An Introduction](https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb)
+* [ColossalChat: An Open-Source Solution for Cloning ChatGPT With a Complete RLHF Pipeline](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b)
+
+
+## Platforms and Tools
+
+### Data Feature Engineering Tools
+
+* [Numpy](./DataWrangling/Numpy.ipynb)
+* [Pandas](./DataWrangling/Pandas.ipynb)
+* [Polars](https://github.com/pola-rs/polars)
+* [PySpark](./DataWrangling/PySpark.ipynb)
+* [Data Profiling Tools](https://towardsdatascience.com/awesome-data-science-tools-to-master-in-2023-data-profiling-edition-29d29310f779)
+* [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Python)
+
+### Data Visualization Tools
+
+* [Matplotlib](./Visualization/Matplotlib.ipynb)
+* [Seaborn](./Visualization/Seaborn.ipynb)
+* [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Visualization)
+
+### MLOps Platforms - Open Source
+
+* [conda](https://github.com/conda/conda) ![](https://img.shields.io/github/stars/conda/conda.svg?style=social)
+* [kubernetes](https://kubernetes.io/)
+* [kubeflow](https://www.kubeflow.org/)
+* [MLFlow](https://mlflow.org/)
+
+### MLOps Platforms - Cloud Vendors
+
+* [Databricks - MLOps](./The-Big-Book-of-MLOps-v6.pdf)
+* [AWS SageMaker](https://aws.amazon.com/sagemaker/)
+* [GCP Vertex AI](https://cloud.google.com/vertex-ai)
+* [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/)
 
 ## Recommended Reading Books:
 
