@@ -44,6 +44,7 @@ For git download and installation, please refer to its [official website](https:
 * [AutoML and Auto-Keras: Getting Started Guide](./DSLC/auto-keras.ipynb)
 * [Rules of Machine Learning: Best Practices for ML Engineering](./DSLC/RulesofMachineLearning.pdf)
 * [Extra Reading - Machine Learning Ops](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+* [Time Series Made Easy in Python - Darts](https://unit8co.github.io/darts/README.html#forecasting-models)
 
 ### Machine Learning Basics
 
@@ -78,6 +79,7 @@ For git download and installation, please refer to its [official website](https:
 * [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 * [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 * [Applying massive language models in the real world with Cohere](https://jalammar.github.io/applying-large-language-models-cohere/)
+* [Intuition Builder: How to Wrap Your Mind Around Transformer’s Attention Mechanism](https://towardsdatascience.com/how-to-explain-transformer-self-attention-like-i-am-five-9020bf50b764)
 
 ### Generative AI
 
@@ -87,20 +89,26 @@ For git download and installation, please refer to its [official website](https:
 * [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 * [LMFlow - An extensible, convenient, and efficient toolbox for finetuning large machine learning models](https://github.com/OptimalScale/LMFlow)
 * [LLaMA-Adapter: Efficient Fine-tuning of LLaMA](https://github.com/zrrskywalker/llama-adapter)
+* [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
+* [Google Cloud - Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
+* [Lil’Log - Lilian is leading a team on AI Safety at OpenAI.](https://lilianweng.github.io/)
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+* [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+* [(Almost) Everything I know about LLMs](https://barryz-architecture-of-agentic-llm.notion.site/Almost-Everything-I-know-about-LLMs-d117ca25d4624199be07e9b0ab356a77)
 
-### Explainable AI
+### Data-centric AI
 
+* [Data-centric AI - MIT](https://www.youtube.com/playlist?app=desktop&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5)
 * [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
 * [Explainable AI Cheat Sheet](https://jalammar.github.io/explainable-ai/)
 * [Unveiling the Black Box model using Explainable AI(Lime, Shap) Industry use case](https://www.analyticsvidhya.com/blog/2020/10/unveiling-the-black-box-model-using-explainable-ai-lime-shap-industry-use-case/)
+* [What Are the Data-Centric AI Concepts behind GPT Models?](https://towardsdatascience.com/what-are-the-data-centric-ai-concepts-behind-gpt-models-a590071bb727)
 
 ### Reinforcement Learning (with Human Feedbacks)
 
 * [Reinforcement Learning - An Introduction](https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb)
 * [ColossalChat: An Open-Source Solution for Cloning ChatGPT With a Complete RLHF Pipeline](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b)
-
-
-## Platforms and Tools
 
 ### Data Feature Engineering Tools
 
@@ -130,6 +138,11 @@ For git download and installation, please refer to its [official website](https:
 * [AWS SageMaker](https://aws.amazon.com/sagemaker/)
 * [GCP Vertex AI](https://cloud.google.com/vertex-ai)
 * [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/)
+
+### Interesting Solutions
+* [Combine Amazon SageMaker and DeepSpeed to fine-tune FLAN-T5 XXL](https://www.philschmid.de/sagemaker-deepspeed?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&sc_content=ml_services&trk=machine_learning&linkId=209393775)
+* [High accuracy generative ai applications using amazon kendra](https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
+* [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 ## Recommended Reading Books:
 
@@ -174,3 +187,4 @@ For git download and installation, please refer to its [official website](https:
 * ["Fake" Data Scientists](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
 * [You can master Computer Vision, Deep Learning, and OpenCV - Adrian Rosebrock, PhD](https://www.pyimagesearch.com/)
 * [Data Scientist Interview Questions](./DataScienceInterviewQuestions.pdf)
+* [Stanford CS324 - understanding and developing large language models](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
