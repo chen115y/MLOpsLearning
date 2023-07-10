@@ -96,6 +96,7 @@ For git download and installation, please refer to its [official website](https:
 * [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 * [(Almost) Everything I know about LLMs](https://barryz-architecture-of-agentic-llm.notion.site/Almost-Everything-I-know-about-LLMs-d117ca25d4624199be07e9b0ab356a77)
+* [I-JEPA: The first AI model based on Yann LeCun’s vision for more human-like AI](https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=blog&utm_content=link)
 
 ### Data-centric AI
 
@@ -108,6 +109,8 @@ For git download and installation, please refer to its [official website](https:
 ### Reinforcement Learning (with Human Feedbacks)
 
 * [Reinforcement Learning - An Introduction](https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb)
+* [llustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+* [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://huggingface.co/blog/stackllama)
 * [ColossalChat: An Open-Source Solution for Cloning ChatGPT With a Complete RLHF Pipeline](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b)
 
 ### Data Feature Engineering Tools
