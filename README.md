@@ -191,3 +191,4 @@ For git download and installation, please refer to its [official website](https:
 * [You can master Computer Vision, Deep Learning, and OpenCV - Adrian Rosebrock, PhD](https://www.pyimagesearch.com/)
 * [Data Scientist Interview Questions](./DataScienceInterviewQuestions.pdf)
 * [Stanford CS324 - understanding and developing large language models](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
+* [aman.ai - exploring the art of artificial intelligence one concept at a time](https://aman.ai/)
