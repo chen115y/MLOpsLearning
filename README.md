@@ -112,6 +112,7 @@ For git download and installation, please refer to its [official website](https:
 * [llustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 * [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://huggingface.co/blog/stackllama)
 * [ColossalChat: An Open-Source Solution for Cloning ChatGPT With a Complete RLHF Pipeline](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b)
+* [Mastering RLHF with AWS: A Hands-on Workshop on Reinforcement Learning from Human Feedback](https://www.youtube.com/watch?v=-0pvrCLd2Ak)
 
 ### Data Feature Engineering Tools
 
