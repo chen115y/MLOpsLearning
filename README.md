@@ -177,6 +177,7 @@ For git download and installation, please refer to its [official website](https:
 
 ## Related Free on-line Resources:
 
+* [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361).
 * [Google Python Class](https://developers.google.com/edu/python), [Online Python Tutorials](https://pythonspot.com/), [Interactive Python Class](https://cscircles.cemc.uwaterloo.ca/) and [Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 * Python Data Science Handbook [website](https://jakevdp.github.io/PythonDataScienceHandbook/) and [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
 * Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow [1st Edition](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) and [Github](https://github.com/ageron/handson-ml2)
