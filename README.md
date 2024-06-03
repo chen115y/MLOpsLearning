@@ -177,6 +177,7 @@ For git download and installation, please refer to its [official website](https:
 
 ## Related Free on-line Resources:
 
+* Reinforcement Learning - [OpenAI Gym](https://github.com/dennybritz/reinforcement-learning)[AWS SageMaker Examples](https://github.com/aws/amazon-sagemaker-examples/tree/main/reinforcement_learning)
 * [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361).
 * [Google Python Class](https://developers.google.com/edu/python), [Online Python Tutorials](https://pythonspot.com/), [Interactive Python Class](https://cscircles.cemc.uwaterloo.ca/) and [Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 * Python Data Science Handbook [website](https://jakevdp.github.io/PythonDataScienceHandbook/) and [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -194,3 +195,4 @@ For git download and installation, please refer to its [official website](https:
 * [Data Scientist Interview Questions](./DataScienceInterviewQuestions.pdf)
 * [Stanford CS324 - understanding and developing large language models](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
 * [aman.ai - exploring the art of artificial intelligence one concept at a time](https://aman.ai/)
+* [Computer Science Courses with Video Lectures](https://github.com/Developer-Y/cs-video-courses)
