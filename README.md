@@ -162,6 +162,7 @@ For git download and installation, please refer to its [official website](https:
 
 ## Recommended Youtube Videos:
 
+* [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
 * [Amazon Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
 * [Tensorflow - ML Zero to Hero](https://www.youtube.com/watch?v=KNAWp2S3w94&list=RDCMUC0rqucBdTuFTjJiefW5t-IQ&start_radio=1&t=5) 25 Youtube videos.
 * [Deep Learning with PyTorch - Full Course](https://www.youtube.com/watch?v=GIsg-ZUy0MY) An almost 10-hour course video.
