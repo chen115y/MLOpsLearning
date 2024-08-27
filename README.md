@@ -98,6 +98,11 @@ For git download and installation, please refer to its [official website](https:
 * [(Almost) Everything I know about LLMs](https://barryz-architecture-of-agentic-llm.notion.site/Almost-Everything-I-know-about-LLMs-d117ca25d4624199be07e9b0ab356a77)
 * [I-JEPA: The first AI model based on Yann LeCun’s vision for more human-like AI](https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=blog&utm_content=link)
 
+### Retrieval Augmented Generation (RAG)
+
+* [RAG: Retrieval-Augmented Generation - OpenAI](https://openai.com/blog/retrieval-augmented-generation/)
+* [GitHub RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)
+
 ### Data-centric AI
 
 * [Data-centric AI - MIT](https://www.youtube.com/playlist?app=desktop&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5)
