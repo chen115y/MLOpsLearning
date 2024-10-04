@@ -21,6 +21,14 @@ For git download and installation, please refer to its [official website](https:
 
 ## Basic Knowledge
 
+### Beginners Resource
+
+* [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/?id=%F0%9F%8E%92-other-courses)
+* [Microsoft ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+* [Microsoft Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+* [Microsoft AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+* [Anthropic Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+
 ### SQL Basics
 
 * [SQL Foundation](https://www.udemy.com/course/sql-essentials-for-beginners/)
