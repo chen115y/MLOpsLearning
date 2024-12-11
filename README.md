@@ -145,6 +145,7 @@ For git download and installation, please refer to its [official website](https:
 
 * [Matplotlib](./Visualization/Matplotlib.ipynb)
 * [Seaborn](./Visualization/Seaborn.ipynb)
+* [Plotly](https://github.com/plotly/plotly.py)
 * [Cheat Sheets](https://github.com/chen115y/DESAL/tree/master/CheatSheets/Visualization)
 
 ### MLOps Platforms - Open Source
@@ -160,23 +161,6 @@ For git download and installation, please refer to its [official website](https:
 * [AWS SageMaker](https://aws.amazon.com/sagemaker/)
 * [GCP Vertex AI](https://cloud.google.com/vertex-ai)
 * [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/)
-
-### Interesting Solutions
-* [Combine Amazon SageMaker and DeepSpeed to fine-tune FLAN-T5 XXL](https://www.philschmid.de/sagemaker-deepspeed?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&sc_content=ml_services&trk=machine_learning&linkId=209393775)
-* [High accuracy generative ai applications using amazon kendra](https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
-* [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
-
-## Recommended Reading Books:
-
-* [Python Crash Course](https://nostarch.com/pythoncrashcourse2e), Eric Matthes, No Starch Press, Inc., 2016 (recommend for beginners to understand Python)
-* [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/), Andreas Muller and Sarah Guido, O’Reilly, 2016 (recommend for beginners)
-* [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), Jake VanderPlas, O’Reilly, 2017 (recommend for beginners)
-* [R for Data Science](https://r4ds.had.co.nz/), Garrett Grolemund and Hadley Wickham, O’Reilly, 2017 (optional since Python is dominant in data science)
-* [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/), Andrew Ng, deeplearning.ai 2018 (recommend for beginners)
-* [Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Aurelien Geron, O’Reilly, 2019 (recommend for advanced learners)
-* [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438), Francois Chollet, Manning Publications Co., 2018 (recommend for beginners)
-* [Data Science on AWS](https://www.oreilly.com/library/view/data-science-on/9781492079385/), Chris Fregly & Antje Barth, O'Reilly, 2021 (recommend for AWS professionals)
-* [Mathematics for Machine Learning](./DeepLearning/mml-book.pdf), [GitHub](https://mml-book.github.io/), Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, Cambridge University Press, 2020 (recommend for all levels of learners)
 
 ## Recommended Youtube Videos:
 
@@ -207,11 +191,8 @@ For git download and installation, please refer to its [official website](https:
 * [Machine Learning & Deep Learning Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 * [Spark Data Processing Course](https://github.com/luisbelloch/data_processing_course)
 * [Cornell University CS4780/CS5780 Course: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)
-* [Applied Machine Learning Course at BYU - GitHub](https://github.com/tfolkman/byu_econ_applied_machine_learning/tree/master/lectures)
-* [Microsoft Machine Learning Algorithms available on SQL Server Analysis Services (SSAS)](https://chen115yaohua.blogspot.com/2012/08/microsoft-sql-server-analysis-services.html)
 * ["Fake" Data Scientists](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
 * [You can master Computer Vision, Deep Learning, and OpenCV - Adrian Rosebrock, PhD](https://www.pyimagesearch.com/)
 * [Data Scientist Interview Questions](./DataScienceInterviewQuestions.pdf)
 * [Stanford CS324 - understanding and developing large language models](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
-* [aman.ai - exploring the art of artificial intelligence one concept at a time](https://aman.ai/)
 * [Computer Science Courses with Video Lectures](https://github.com/Developer-Y/cs-video-courses)
