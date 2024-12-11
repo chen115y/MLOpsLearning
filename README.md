@@ -1,4 +1,4 @@
-# Data Science and MLOps Learning
+# Data Science and MLOps Learning Resources
 
 This repository provides some basic learning & training materials for anyone who are willing to learn data science and machine learning engineering & operations (MLOps).
 
